@@ -1,0 +1,10 @@
+{
+  "name": "Bumbler",
+  "description": "Bumbler is a browser extension that allows you to easily get the user's profile data from bumble and save it to multiple formats.",
+  "version": "0.0.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  }
+}
